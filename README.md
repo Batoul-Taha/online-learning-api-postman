@@ -13,3 +13,14 @@ Click the link below to view and explore the API endpoints:
 4. Select `API.postman_collection.json`
 5. Set `base_url` to:
    http://127.0.0.1:8000
+
+
+   note # 
+
+⚠️ Due to Postman free account limitations, public documentation links are restricted.
+The API can be reviewed using the collection file and screenshots below.
+
+---
+
+## 📂 Postman
+
